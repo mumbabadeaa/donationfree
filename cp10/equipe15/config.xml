@@ -1,0 +1,17 @@
+<config>
+	<!-- Slot Control -->
+	<cause v="Cancer"/>
+	<power v="full"/>
+
+	<!-- User Information -->
+	<passkey v="4eb9fa62c3f12bd84eb9fa62c3f12bd8"/>
+	<team v=""/>
+	<user v="46e8b7m5pa0w"/>
+
+	<!-- Folding Slots -->
+
+	<slot id="1" type="GPU">
+		<pci-bus v="0"/>
+		<pci-slot v="5"/>
+	</slot>
+</config>
